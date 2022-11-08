@@ -31,7 +31,7 @@ class Person < Nameable
     (@age >= 18 || @parent_permission)
   end
 
-   def add_rental(person, date)
+  def add_rental(person, date)
     Rental.new(date, self, person)
   end
 end
