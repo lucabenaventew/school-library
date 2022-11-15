@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2020/01/01",
+    "title": "The Shawshank Redemption",
+    "author": "Stephen King",
+    "id": 611,
+    "name": "Pedro",
+    "age": null,
+    "parent_permission": null
+  },
+  {
+    "date": "2020/04/28",
+    "title": "Harry potter",
+    "author": "J. k. rowling",
+    "id": 900,
+    "name": "Luca",
+    "age": "20",
+    "parent_permission": true
+  }
+]
